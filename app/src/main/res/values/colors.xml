@@ -2,7 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="yazilar">#424242</color>
+    <color name="yazilar">#FF000000</color>
     <color name="basliklar">#FF000000</color>
     <color name="sepetButon">#FF8F00</color>
     <color name="kilogramRenk">#FFD54F</color>

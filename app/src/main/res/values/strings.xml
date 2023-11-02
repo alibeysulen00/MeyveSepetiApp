@@ -7,5 +7,10 @@
     <string name="teslimat">Free</string>
     <string name="hakkinda">An orange contains only 85 calories on average and contains no fat, cholesterol or sodium. On the other hand, oranges are an excellent source of vitamin C, vitamin A, flavonoid antioxidants, B complex vitamins, minerals such as potassium and calcium. </string>
     <string name="buton">Add to Cart</string>
+    <string name="kilo1">0.5 kg</string>
+    <string name="kilo2">1 kg</string>
+    <string name="kilo5">5 kg</string>
+    <string name="kilo10">10 kg</string>
+
 
 </resources>

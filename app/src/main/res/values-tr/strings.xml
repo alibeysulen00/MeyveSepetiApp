@@ -7,5 +7,8 @@
     <string name="teslimat">Ücretsiz</string>
     <string name="hakkinda">Bir portakal ortalama olarak sadece 85 kalori içerir ve yağ, kolesterol veya sodyum içermez. Öte yandan portakal mükemmel bir C vitamini, A vitamini, flavonoid antioksidanlar, B kompleks vitaminleri, potasyum ve kalsiyum gibi mineraller kaynağıdır. </string>
     <string name="buton">Sepete Ekle</string>
-
+    <string name="kilo1">0.5 kg</string>
+    <string name="kilo2">1 kg</string>
+    <string name="kilo5">5 kg</string>
+    <string name="kilo10">10 kg</string>
 </resources>
