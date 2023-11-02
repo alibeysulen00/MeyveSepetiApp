@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meyve Sepeti</string>
+    <string name="Basliklar">Portakal</string>
+    <string name="fiyat">30TL/kg</string>
+    <string name="stok">(100 İnceleme)</string>
+    <string name="sure">10 Dk</string>
+    <string name="teslimat">Ücretsiz</string>
+    <string name="hakkinda">Bir portakal ortalama olarak sadece 85 kalori içerir ve yağ, kolesterol veya sodyum içermez. Öte yandan portakal mükemmel bir C vitamini, A vitamini, flavonoid antioksidanlar, B kompleks vitaminleri, potasyum ve kalsiyum gibi mineraller kaynağıdır. </string>
+    <string name="buton">Sepete Ekle</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yazilar">#424242</color>
+    <color name="sepetButon">#FF8F00</color>
+    <color name="kilogramRenk">#FF8F00</color>
+    <color name="anaRenk">#FF8F00</color>
+    <color name="basliklar">#FFB300</color>
+
+</resources>

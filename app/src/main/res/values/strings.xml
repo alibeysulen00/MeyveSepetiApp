@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meyve Sepeti</string>
+    <string name="Basliklar">Orange</string>
+    <string name="fiyat">$15/kg</string>
+    <string name="stok">(Review 100)</string>
+    <string name="sure">10 Min</string>
+    <string name="teslimat">Free</string>
+    <string name="hakkinda">An orange contains only 85 calories on average and contains no fat, cholesterol or sodium. On the other hand, oranges are an excellent source of vitamin C, vitamin A, flavonoid antioxidants, B complex vitamins, minerals such as potassium and calcium. </string>
+    <string name="buton">Add to Cart</string>
+
+</resources>
